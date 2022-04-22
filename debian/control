@@ -2,7 +2,7 @@ Source: cen64
 Section: otherosfs
 Priority: optional
 Maintainer: Dan Hasting <maintainer@hasting.email>
-Build-Depends: debhelper-compat (= 12), cmake, libgl1-mesa-dev, libopenal-dev
+Build-Depends: debhelper-compat (= 13), cmake, libgl1-mesa-dev, libopenal-dev
 Standards-Version: 4.5.0
 Homepage: https://www.cen64.com/
 Vcs-Git: https://github.com/dh4/cen64-debian.git
